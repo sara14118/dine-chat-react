@@ -1,0 +1,131 @@
+
+.left-section {
+  position: absolute;
+  top: 72px;
+  left: 72px;
+  width: 326px;
+  height: 228px;
+}
+.footer {
+  position: absolute;
+  top: 72px;
+  left: 72px;
+  width: 326px;
+  height: 228px;
+  top: 4812px;
+  left: 0;
+  background-color: var(--primary-dark);
+  width: 1440px;
+  height: 516px;
+  overflow: hidden;
+  font-size: var(--paragraph-regular-20pt-size);
+  color: var(--text-grey);
+}
+
+.sitemap1 {
+    font-size: var(--heading-4-size);
+    line-height: 36px;
+    font-weight: 600;
+    color: var(--text-white);
+    position: relative;
+    letter-spacing: 0.02em;
+  }
+.home
+   {
+    position: relative;
+    letter-spacing: 0.02em;
+  }
+ 
+.sitemap {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: var(--gap-7xl);
+  }
+.right-section {
+    position: absolute;
+    top: 72px;
+    right: 72px;
+    width: 794px;
+    flex-direction: row;
+    justify-content: space-between;
+    display: flex;
+    align-items: flex-start;
+  }
+
+
+
+.find-your-new {
+    top: 80px;
+    left: 0;
+    display: inline-block;
+    width: 326px;
+    position: absolute;
+    letter-spacing: 0.02em;
+  }
+.veshion {
+    top: 8px;
+    left: 72px;
+    line-height: 40px;
+    font-weight: 600;
+    position: absolute;
+    letter-spacing: 0.02em;
+  }
+  
+.shopping-bag-solid {
+    border-radius: var(--br-123xl);
+    background-color: var(--color-salmon-100);
+    width: 56px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-5xs);
+    box-sizing: border-box;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 56px;
+  }
+.logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 56px;
+    width: 199px;
+    font-size: var(--heading-3-size);
+    color: var(--color-salmon-100);
+  }
+  
+
+.facebook-fill-wrapper {
+    border-radius: var(--br-21xl);
+    background-color: var(--primary-dark-accent);
+    padding: var(--padding-xs);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+.sosmed {
+    position: absolute;
+    top: 180px;
+    left: 0;
+    gap: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+.facebook-fill-icon {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+
+

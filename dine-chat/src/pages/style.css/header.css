@@ -1,0 +1,217 @@
+
+.mobile-app-dark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+}
+.home1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    background-color: var(--primary-dark);
+    height: 900px;
+    overflow: hidden;
+    font-size: var(--heading-6-size);
+}
+
+.navbar1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: var(--padding-5xs);
+    align-items: center;
+    gap: var(--gap-37xl);
+}
+.switch {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: var(--padding-5xs);
+  align-items: flex-start;
+  gap: 10px;
+}
+
+
+
+.find-your-new-container1,
+.navbar {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.navbar {
+  right: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 48px 72px var(--padding-5xl);
+  box-sizing: border-box;
+}
+.logo1 {
+  position: relative;
+  width: 148px;
+  height: 40px;
+  font-size: var(--heading-3-size);
+  color: var(--color-salmon-100);
+}
+
+.dinechat {
+    top: 0;
+    letter-spacing: 0.02em;
+    line-height: 40px;
+    font-weight: 600;
+    position: absolute;
+    left: 0;
+  }
+
+.shopping-bag-solid-icon {
+    position: relative;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+
+.pages {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-5xs);
+  }
+
+.contact {
+    position: relative;
+    letter-spacing: 0.02em;
+    line-height: 24px;
+    font-weight: 600;
+  }
+
+
+
+.switch1 {
+    position: relative;
+    width: 48px;
+    height: 24px;
+  }
+  
+
+  
+
+ 
+
+.button
+ {
+  border-radius: var(--br-xs);
+  background-color: var(--color-salmon-100);
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-5xl);
+  display: flex;
+  flex-direction: row;
+}
+.button2 {
+  display: flex;
+  flex-direction: row;
+  border-radius: var(--br-xs);
+  border: 2px solid var(--color-salmon-100);
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-5xl);
+}
+.button-cta {
+  width: 249px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  display: flex;
+  flex-direction: row;
+}
+
+.button1 {
+    position: relative;
+    letter-spacing: 0.02em;
+    font-weight: 600;
+  }
+ 
+.button-download1 {
+    position: absolute;
+    top: 330px;
+    left: 0;
+    width: 503px;
+    height: 107px;
+  }
+
+.button-download {
+    position: absolute;
+    top: 246px;
+    left: calc(50% - 251px);
+    width: 503px;
+    height: 107px;
+  }
+
+  .title4 {
+    position: absolute;
+    width: calc(100% - 748px);
+    top: 274px;
+    right: 668px;
+    left: 80px;
+    height: 437px;
+    font-size: var(--big-title-size);
+  }
+
+  .find-your-new-container1 {
+    font-weight: 600;
+    display: inline-block;
+  }
+
+.veshion1 {
+    color: var(--color-salmon-100);
+  }
+
+.buy-something-has {
+    position: absolute;
+    width: calc(100% - 31px);
+    top: 240px;
+    left: 0;
+    font-size: var(--paragraph-regular-20pt-size);
+    letter-spacing: 0.02em;
+    color: var(--text-grey);
+    display: inline-block;
+  }
+.google-play-badge-1-icon1 {
+    position: absolute;
+    top: 0;
+    left: 226px;
+    width: 277px;
+    height: 107px;
+    object-fit: cover;
+  }
+.download-on-the-app-store-badg-icon1 {
+    position: absolute;
+    top: 17px;
+    left: 0;
+    width: 220.01px;
+    height: 73px;
+    overflow: hidden;
+    object-fit: cover;
+  }
+
+.image-icon2 {
+    position: absolute;
+    height: 78%;
+    top: 18.33%;
+    right: 53.15px;
+    bottom: 3.67%;
+    max-height: 100%;
+    width: 632.7px;
+    object-fit: cover;
+  }
+  
+  
+

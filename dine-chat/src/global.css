@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --paragraph-regular-20pt: Poppins;
+
+  /* font sizes */
+  --paragraph-regular-20pt-size: 20px;
+  --big-title-size: 72px;
+  --heading-6-size: 18px;
+  --heading-3-size: 30px;
+  --heading-4-size: 24px;
+  --heading-1-size: 40px;
+
+  /* Colors */
+  --text-white: #fff;
+  --primary-dark: #1a1b22;
+  --text-grey: #94959b;
+  --color-salmon-100: #ff7966;
+  --color-salmon-200: rgba(255, 121, 102, 0.15);
+  --color-darkslategray-100: #373840;
+  --primary-dark-accent: #2c2d39;
+  --primary-blue: #3865f3;
+
+  /* Gaps */
+  --gap-5xl: 24px;
+  --gap-37xl: 56px;
+  --gap-5xs: 8px;
+  --gap-base: 16px;
+  --gap-45xl: 64px;
+  --gap-13xl: 32px;
+  --gap-7xl: 26px;
+
+  /* Paddings */
+  --padding-5xl: 24px;
+  --padding-base: 16px;
+  --padding-5xs: 8px;
+  --padding-xl: 20px;
+  --padding-21xl: 40px;
+  --padding-xs: 12px;
+
+  /* Border radiuses */
+  --br-xs: 12px;
+  --br-123xl: 142px;
+  --br-53xl: 72px;
+  --br-xl: 20px;
+  --br-13xl: 32px;
+  --br-21xl: 40px;
+}
+
+[data-theme="light"]{
+
+  --text-white: black;
+  --primary-dark: white;
+
+}
